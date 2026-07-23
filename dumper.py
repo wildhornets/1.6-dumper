@@ -1,14 +1,5 @@
-# -*- coding: utf-8 -*-
-# Decompiled with PyLingual (https://pylingual.io)
-# Internal filename: 'cs16_dumper_en.py'
-# Bytecode version: 3.12.0rc2 (3531)
-# Source timestamp: 1970-01-01 00:00:00 UTC (0)
-# Fixed: control flow reconstruction errors from decompiler
-
 """
-ECLIPSE CS 1.6 EXTERNAL DUMPER v6.5
-Semi-Automatic Calibration + Memory Engine
-Calibrate once, use everywhere.
+https://github.com/wildhornets/1.6-dumper
 """
 import ctypes
 import ctypes.wintypes as wt
